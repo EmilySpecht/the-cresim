@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "categoria": "SALARIO",
+        "descricao": "Aumenta o salario do Cresim em 10%",
+        "valor": 10,
+        "unidade": "%"
+    },
+    {
+        "id": 1,
+        "categoria": "ENERGIA",
+        "descricao": "Aumenta a energia do Cresim em 5 pontos",
+        "valor": 5,
+        "unidade": "pt"
+    },
+    {
+        "id": 1,
+        "categoria": "HABILIDADE",
+        "descricao": "Aumenta a habilidade escolhida do Cresim em 5 pontos",
+        "valor": 5,
+        "unidade": "pt"
+    },
+    {
+        "id": 1,
+        "categoria": "VIDA",
+        "descricao": "Aumenta a vida do Cresim em 100.000ms",
+        "valor": 100000,
+        "unidade": "ms"
+    }
+]
